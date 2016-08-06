@@ -1,5 +1,5 @@
 {
-  "name": "titolo",
+  "name": "build_wikipedia_viewer",
   "version": "0.0.1",
   "description": "descrizione",
   "main": "index.html",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/AhiVelasquez/Random-Quote-Machine.git"
+    "url": "git@github.com:AhiVelasquez/buildWikipediaViewer.git"
   },
   "author": "Paola Guarasci",
   "license": "MIT",
@@ -50,5 +50,9 @@
     "transform": [
       "browserify-shim"
     ]
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/AhiVelasquez/Random-Quote-Machine/issues"
+  },
+  "homepage": "https://github.com/AhiVelasquez/Random-Quote-Machine#readme"
 }
